@@ -23,7 +23,3 @@ For security reasons, I removed my personal Gemini API key from the `config.php`
 
 
 
-
-## Security Note
-
-For security reasons, I removed my personal Gemini API key from the `config.php` file befor
